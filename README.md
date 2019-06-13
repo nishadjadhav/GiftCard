@@ -1,2 +1,2 @@
 # Gift Card
-![alt text](https://github.com/nishadjadhav/Reward_img/blob/master/logo.png)
+![alt text](https://github.com/nishadjadhav/GiftCard/blob/master/gift2.jpeg)
