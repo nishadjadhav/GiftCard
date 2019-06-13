@@ -35,7 +35,8 @@ Create, update or delete gift cards
   <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot14.png" height="350" width="700">
 
 #### Purchase Gift card Products and get gift card order offers of Customers
-- #### Purchase Gift Card Products
+- #### Display Gift Card product in product list and Customer can place the order of these products
+<img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot5.png" height="350" width="700">
 
 
 
