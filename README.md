@@ -23,5 +23,6 @@ $ php bin/magento setup:static-content:deploy
 #### Flexible Configurations for Admin to Create and Manage Gift Cards
 - #### Create a separate product category for Gift cards
   Admin can add gift card product using seperate category of Gift Card Products types.
+  </br>
   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/admin_rule.png" height="350" width="700">
 
