@@ -34,9 +34,10 @@ Create, update or delete gift cards
   <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot13.png" height="350" width="700">
   <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot14.png" height="350" width="700">
 
-#### Configure and buy custom gift cards as wanted
-- #### In the frontend gift card product in an product list, customers can select gift card product and place the order of these products
+- #### Configure and buy custom gift cards as wanted
+  In the frontend gift card product in an product list, customers can select gift card product and place the order of these products
+  </br>
 <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot5.png" height="350" width="700">
 
-
+- #### Send notification emails to Customer
 
