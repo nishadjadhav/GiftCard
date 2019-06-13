@@ -43,4 +43,4 @@ Create, update or delete gift cards
   Once a buyer successfully orders a gift card, an automatic email along with gift card outcome will be sent to the customer   to confirm the order. The email sent to customer includes information of a message, a gift code and expiry day. Magento 2     Gift Card extension also notifies recipients when a gift code has been expired.
   <br>
   <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot9.png" height="350" width="700">
-
+- #### Apply gift card coupon code 
