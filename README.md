@@ -22,7 +22,8 @@ $ php bin/magento setup:static-content:deploy
 ## Features!
 #### Flexible Configurations for Admin to Create and Manage Gift Cards
 - #### Create a separate product Types for Gift cards
-  Admin can add gift card product using seperate types of Gift Card Products types.
+  Admin can add gift card product using seperate types of Gift Card Products types. Configure the price for various gift cards
+Create, update or delete gift cards
   </br>	
 
   <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot3.png" height="350" width="700">
