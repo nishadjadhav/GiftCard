@@ -37,9 +37,9 @@ Create, update or delete gift cards
 - #### Configure and buy custom gift cards as wanted
   In the frontend gift card product in an product list, customers can select gift card product and place the order of these products
   </br>
-<img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot5.png" height="350" width="700">
+  <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot5.png" height="350" width="700">
 
 - #### Send notification emails to Customer
   Once a buyer successfully orders a gift card, an automatic email along with gift card outcome will be sent to the customer   to confirm the order. The email sent to customer includes information of a message, a gift code and expiry day. Magento 2     Gift Card extension also notifies recipients when a gift code has been expired.
-<img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot9.png" height="350" width="700">
+  <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot9.png" height="350" width="700">
 
