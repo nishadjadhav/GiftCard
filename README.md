@@ -44,7 +44,7 @@ Create, update or delete gift cards
   <br>
   <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot9.png" height="350" width="700">
 - #### Apply gift card coupon code 
-  Click on ->Apply Discount / Gift Code and enter Gift Coupon Code
+  Add any products in to cart. Click on ->Apply Discount / Gift Code and enter Gift Coupon Code
   ( which is send on mail while purchasing Gift Card Product ) then click on
   ->Apply Discount.
   </br>
