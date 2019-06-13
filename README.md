@@ -21,3 +21,4 @@ $ php bin/magento setup:static-content:deploy
 
 ## Features!
 #### Flexible Configurations for Admin to Create and Manage Gift Cards
+#### 1) Create a separate product category for Gift cards
