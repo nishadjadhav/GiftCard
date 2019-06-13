@@ -28,7 +28,9 @@ Create, update or delete gift cards
 
   <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot3.png" height="350" width="700">
   
-- #### Manage gift card by changing the status, balance and expiry date
+- #### Manage gift card 
+       Manage gift card information in admin by changing the status, balance and expiry date.
+       </br>
   <img src="https://github.com/nishadjadhav/GiftCard/blob/master/Screenshot14.png" height="350" width="700">
 
 
