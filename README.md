@@ -1,4 +1,4 @@
-# Gift Card
+# Magento 2 : Gift Card Extension
 <img src ="https://github.com/nishadjadhav/GiftCard/blob/master/gift4.jpeg"/><img src="https://github.com/nishadjadhav/GiftCard/blob/master/giftcard.jpg" height=200 width=200/>
 
 
